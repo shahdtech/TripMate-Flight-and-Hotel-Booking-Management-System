@@ -31,15 +31,39 @@ TripMate is a comprehensive booking management system designed to handle flight 
    - Run the welcome file  
 
 3. Use the system:
-   - Navigate through the interface to book flights and hotels  
+   - Navigate through the interface to book flights and hotels
+  
+## Note
+The images included in the `ShowInterface/` folder are for demonstration purposes only. They represent sample outputs and results of the system and were not used as part of the training or processing pipeline.
 
 ## Demo
 Below are screenshots from running the system:
 
-(Add your screenshots here)
-<!-- Example:
-![Home Screen](images/home.png)
-![Booking Screen](images/booking.png)
+1. Welcome Screen:
+
+
+![Welcome Screen](ShowInterface/1.png)
+
+
+2. Home Screen:
+
+
+![Home Screen](ShowInterface/3.png)
+
+
+3. Booking Screen:
+
+
+![Booking Screen](ShowInterface/2.png)
+
+
+4. Weather Screen:
+
+
+![Weather Screen](ShowInterface/4.png)
+
+
+
 -->
 
 ## Conclusion
